@@ -1,4 +1,6 @@
 # Android app
-Celem aplikacji jest zdalne sterowanie manipulatorem (robotic arm) oraz platformą jeżdżącą. Aplikacja została napisana w języku Kotlin w programie Android Studio.
+The purpose of the application is to remotely control a manipulator (robotic arm) and a riding platform. The application was written in Kotlin language in Android Studio.
 
-Aplikacja ta jest częścią projektu maigsterskiego. Przedstawiony poniżej GIF to tylko 1/13 filmów przedstawiających działanie aplikacji.
+The application is part of the maigster project. The GIF shown below is only 1/13 of the videos showing how the application works.
+
+![grab-landing-page](https://github.com/reiden12364/PONG/blob/main/video.gif)
